@@ -1,6 +1,6 @@
 # STPC(Spatio-Temporal model constructed using Probsparse self-attention and ChebyshevGCN)
 
-Attention-Based Spatio-Temporal Graph Convolutional Networks for Long-term Public Bicycle Sharing System demand prediction
+Attention-Based Spatio-Temporal Graph Convolutional Networks for Demand Prediction of Public Bicycle Sharing System
 
 <img src="fig/STPC architecture.png" alt="image-20200103164326338" style="zoom:50%;" />
 
