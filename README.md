@@ -5,6 +5,7 @@ Attention-Based Spatio-Temporal Graph Convolutional Networks for Demand Predicti
 <img src="fig/STPC architecture.png" alt="image-20200103164326338" style="zoom:50%;" />
 
 This is a Pytorch implementation of STPC mdoel. The pytorch versionreleased here only consists of the  recent component, since the other two components have the same network architecture. 
+**But, this project is still being refined and updated.**
 
 <!-- # Reference
 
